@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HRAssessment_Example' do
+  pod 'HRAssessment', :path => '../'
+
+  target 'HRAssessment_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -2,7 +2,7 @@ PODS:
   - DGCharts (5.0.0):
     - DGCharts/Core (= 5.0.0)
   - DGCharts/Core (5.0.0)
-  - HRAssessment (0.1.0):
+  - HRAssessment (1.0.0):
     - DGCharts
 
 DEPENDENCIES:
@@ -18,7 +18,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   DGCharts: 6e0cf2644e8f81ad13f04caa8bc18502870a1c54
-  HRAssessment: 862ffc4f78eebcd10c3c41b554abb6abb3fef212
+  HRAssessment: 03c788c99cf9cc8bc5cc049423085570195fc3a4
 
 PODFILE CHECKSUM: afda85a6d4bbe6bc4f849f1482609ad7fbcd2e2c
 
